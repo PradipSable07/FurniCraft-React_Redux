@@ -9,7 +9,7 @@ FurniCraft is a project aimed at creating an efficient and user-friendly online 
 https://github.com/PradipSable07/FurniCraft-React_Redux/assets/96158817/515d5bee-f459-4b3f-ab45-4e416aae7637
 
 
-video is only for demo purpose for more emmersive exprience visite [website](https://furnicraft-react-redux.netlify.app/)
+video is only for demo purpose for more emmersive exprience visit [website](https://furnicraft-react-redux.netlify.app/)
 
 ## Project Structure
 
